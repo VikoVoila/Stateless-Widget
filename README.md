@@ -1,4 +1,4 @@
 # Stateless-Widget
-flutter stateless exxamole
+flutter stateless example
 ![](StatelessWidget.jpg) 
-![](Stateless Widget.jpg)
+![](StatelessWidget1.jpg)
